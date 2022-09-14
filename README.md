@@ -8,5 +8,5 @@ blabla
 - No se
 
 
-## Apartado B
-blablabla
+## TUX
+ ![Tux, the Linux mascot](/assets/images/TUX.JPG)
