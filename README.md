@@ -2,10 +2,12 @@
 
 
 ## Apartado A
-blabla
-- Sí
-- No
-- No se
+Codigó:
+    
+ <html>
+  <head>
+  </head>
+ </html>
 
 
 ## TUX
