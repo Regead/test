@@ -9,4 +9,4 @@ blabla
 
 
 ## TUX
- ![Tux, the Linux mascot](TUX.JPG)
+ ![Tux, the Linux mascot](/Regead/test/blob/main/TUX.jpg)
