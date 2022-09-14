@@ -9,7 +9,7 @@ Codigó:
      </head>
     </html>
 
-Ese es un código `HTML`! no `PHP
+Ese es un código `HTML`! no `PHP`
 
 ## TUX
  ![Tux, the Linux mascot](/TUX.jpg)
