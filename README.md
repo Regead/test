@@ -1,10 +1,12 @@
 # test
 
 
-##Apartado A
+## Apartado A
 blabla
+- Sí
+- No
+- No se
 
 
-
-##Apartado B
+## Apartado B
 blablabla
