@@ -9,4 +9,4 @@ blabla
 
 
 ## TUX
- ![Tux, the Linux mascot](/assets/images/TUX.JPG)
+ ![Tux, the Linux mascot](TUX.JPG)
